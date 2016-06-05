@@ -1,0 +1,12 @@
+Package: RegCox
+Title: Coxnet regularization and Active Learning
+Version: 1.0
+Authors@R: person("Nivin", "Jacob", email = "fv3405@wayne.edu", role = c("aut", "cre"))
+Description: Builds cox models with regularization. Build metrics by active learning using regularized cox models
+Depends:
+    R (>= 3.1.3),
+    Coxnet,
+    survcomp
+License: GPL
+LazyData: true
+RoxygenNote: 5.0.1
