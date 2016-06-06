@@ -2,7 +2,7 @@ Install the package using
 
 library(devtools)
 
-//Install 'survcomp' package seperately as this package is not available on cran.
+//Install 'survcomp' package separately as this package is not available on CRAN.
 
 source("https://bioconductor.org/biocLite.R")
 
